@@ -19,7 +19,7 @@ If you are going to upload more than one test you can number it like this:
 
 2. Since this are scripts, all tests must be started by the line #! / Bin / bash
 
-> !#/bin/bash
+> #!/bin/bash
 
 3. All scripts must respect the rules of the Shell language, so we suggest reviewing this webpage:
 
@@ -27,7 +27,7 @@ If you are going to upload more than one test you can number it like this:
 
 4. Always remember to give permisions to your script, we suggest the next line:
 
-> chmod 777 test_authorname1.sh	
+> chmod 777 test_authorname1.sh
 
 5. When executing any script your executable file it should be named:
 
