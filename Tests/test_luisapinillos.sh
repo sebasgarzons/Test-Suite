@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#view the text files in the command prompt
+#view the text files
 echo "/bin/more hsh" | ./hsh
 echo "/bin/more hsh" | sh
 
